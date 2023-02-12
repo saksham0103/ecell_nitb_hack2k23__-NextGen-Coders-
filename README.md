@@ -31,9 +31,9 @@ Graphical Password Authentication System
 ![Login sucessful](https://github.com/saksham0103/ecell_nitb_hack2k23__-NextGen-Coders-/blob/master/Screenshot%20(193).png?raw=true)
 
 
-### Login Failure
-![Login failure]()
+### Login Successful
+![Login successful](https://github.com/saksham0103/ecell_nitb_hack2k23__-NextGen-Coders-/blob/master/8.login-succesful.png?raw=true)
 
-### Login Failure Notification
-![Login failure notifs]()
+### Login Failure 
+![Login failure](https://github.com/saksham0103/ecell_nitb_hack2k23__-NextGen-Coders-/blob/master/7.2.1login-fail-wrong-pass.png?raw=true)
 
