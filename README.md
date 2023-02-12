@@ -24,11 +24,11 @@ Graphical Password Authentication System
 ## Screenshots📸
 
 
-### Account creation
-![Account creation]()
+### Sign up Page
+![Account creation](https://github.com/saksham0103/ecell_nitb_hack2k23__-NextGen-Coders-/blob/master/Screenshot%20(194).png?raw=true)
 
-### Login sucess
-![Login sucessful]()
+### Sign in Page
+![Login sucessful](https://github.com/saksham0103/ecell_nitb_hack2k23__-NextGen-Coders-/blob/master/Screenshot%20(193).png?raw=true)
 
 
 ### Login Failure
@@ -37,6 +37,3 @@ Graphical Password Authentication System
 ### Login Failure Notification
 ![Login failure notifs]()
 
-
-### Password Reset Notification
-![Password notification]()
